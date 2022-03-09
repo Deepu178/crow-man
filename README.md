@@ -26,31 +26,31 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Crow man webpage](#overview)
+  - [Built With HTML5 and CSS3](#built-with)
+- [Responsive](#features)
+- [deependrarajpoot178@gmail.com](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
+<img width="1080" alt="Screenshot 2022-03-09 192616" src="https://user-images.githubusercontent.com/68677868/157455810-0278e9bf-e7a5-46ce-8421-7b0aa677d7e0.png">
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+- Vercel
 - What was your experience?
+- Intermediate
 - What have you learned/improved?
-- Your wisdom? :)
+- Font-family 
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
@@ -60,16 +60,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- 
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@deepu178](https://{github.com/your-usermame})
+- Twitter [@trizectfounder](https://{twitter.com/your-username})
